@@ -22,7 +22,7 @@ You can download the latest version of TOTKActorEditor [here](https://github.com
 -   [Vortice.Mathematics](https://www.nuget.org/packages/Vortice.Mathematics/)
 -   [NAudio](https://www.nuget.org/packages/NAudio/)
 
-You may need to setup a new project with these dependancies as this was not written in Visual Studio.
+You may need to setup a new project with these dependancies as this project was not written in Visual Studio.
 
 # Usage
 Please view the Wiki to see how to use the program, and other important information.
