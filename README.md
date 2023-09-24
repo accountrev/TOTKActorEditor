@@ -1,5 +1,5 @@
 # TOTKActorEditor
-**Supported game versions: 1.1.0 - 1.2.1**
+**For Tears of the King versions 1.1.0 - 1.2.1**
 
 TOTKActorEditor is an actor editor for The Legend of Zelda: Tears of the Kingdom. This tool accesses TOTK save files and changes actor IDs within it. Intended with emulator use in mind, but also works on Switch using save backups.
 
