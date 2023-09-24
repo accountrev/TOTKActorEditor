@@ -12,10 +12,12 @@ This tool will edit the save file you provide it, meaning that any changes that 
 # Installation
 You can download the latest version of TOTKActorEditor [here](https://github.com/accountrev/TOTKActorEditor/releases/latest).
 
+You'll need .NET 7 to run this application.
+[Microsoft .NET SDK 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+
 ## Building
 
 ### Dependancies
--   [Microsoft .NET SDK 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 -   [ImGui.NET](https://www.nuget.org/packages/ImGui.NET)
 -   [ClickableTransparenOverlay](https://www.nuget.org/packages/ClickableTransparentOverlay)
 -   [Veldrid.ImGui](https://www.nuget.org/packages/Veldrid.ImGui/)
