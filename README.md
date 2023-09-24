@@ -25,4 +25,4 @@ You can download the latest version of TOTKActorEditor [here](https://github.com
 You may need to setup a new project with these dependancies as this was not written in Visual Studio.
 
 # Usage
-Please view the Wiki to see how to use the program, and other important information.
+Please view the [Wiki](https://github.com/accountrev/TOTKActorEditor/wiki) to see how to use the program, and other important information.
